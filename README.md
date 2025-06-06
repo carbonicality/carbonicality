@@ -1,4 +1,4 @@
-## hi, i'm carbon! 👋
+## hi, i'm carbon⁰⁶! 👋
 i'm a secondary school student situated in the UK who's interested in coding, mathematics and chromeOS vulnerabilities.
 
 **my interests**
