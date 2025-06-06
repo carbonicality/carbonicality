@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, i'm carbon. 👋
+i'm a secondary school student situated in the UK who's interested in coding, mathematics and chromeOS vulnerabilities.
 
-<!--
-**carbonicality/carbonicality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**my interests**
+<li>bash (currently learning)</li>
+<li>web development (currently learning)</li>
+<li>chromeOS and chromeOS vulnerabilities</li>
+<li>cybersecurity (currently learning)</li>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**my stats**
+![carbonicality's Stats](https://github-readme-stats.vercel.app/api?username=carbonicality&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![carbonicality's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carbonicality&theme=gotham&hide_border=true)
+![carbonicality's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonicality&theme=gotham&show_icons=true&hide_border=true&layout=compact)
